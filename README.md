@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markrosenbaum&show_icons=true&locale=en" alt="markrosenbaum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markrosenbaum&" alt="markrosenbaum" /></p>
+
+[![@markrosenbaum's Holopin board](https://holopin.io/api/user/board?user=markrosenbaum)](https://holopin.io/@markrosenbaum)
+
